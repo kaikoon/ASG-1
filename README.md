@@ -1,8 +1,7 @@
-# Your Project's Name
+# LimKaiKoon_13_ASG1
 
-One or two paragraphs providing an overview of your project. Tell us about your project.
+This website is meant to be a website for parents to sign their students up for a tuition centre's website.
 
-Essentially, this part is your sales pitch.
  
 ## Design Process
  
