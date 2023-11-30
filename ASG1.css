@@ -1,7 +1,4 @@
 h1{
+    font-family: 'Merriweather', serif;
     color:blueviolet;
-}
-
-::backdrop{
-    color: aqua;
 }
