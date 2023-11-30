@@ -1,4 +1,10 @@
 h1{
     font-family: 'Merriweather', serif;
-    color:blueviolet;
+    color:rgb(226, 113, 43);
+}
+
+.navbar{
+    background-color: rgb(18, 184, 190);
+    padding-left: 15px;
+    padding-right: 15 px;
 }
