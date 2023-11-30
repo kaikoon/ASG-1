@@ -1,8 +1,9 @@
 {
     text-decoration: none;
 }
-h1{
+.title{
     font-family: 'Merriweather', serif;
+    font-size: 80px;
     color:rgb(226, 113, 43);
 }
 
@@ -10,4 +11,13 @@ h1{
     background-color: rgb(18, 184, 190);
     padding-left: 15 px;
     padding-right: 15 px;
+}
+.navdiv{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+li{
+    list-style: none;
+    display: inline-block;
 }
