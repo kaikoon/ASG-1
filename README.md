@@ -1,6 +1,6 @@
 # LimKaiKoon_13_ASG1
 
-This website is meant to be a website for parents to sign their students up for a tuition centre's website.
+This website is meant to be a website for parents to sign their child up for a tuition centre's website.
 
  
 ## Design Process
