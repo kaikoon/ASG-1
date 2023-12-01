@@ -1,5 +1,7 @@
-const signUp = document.getElementById("signUp");
+function FbotonOn() { 
 
-signUp.addEventListener("click", function(e) {
-    console.log('Thanks for signing up!')
-});
+    if(document.getElementById('button').clicked)
+        document.getElementById('texto').innerHTML = "Thank you";
+    else
+        document.getElementById('texto').innerHTML = "Good Bye";
+}

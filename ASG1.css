@@ -47,6 +47,12 @@ input[type=radio], input[type=checkbox]{
     transform: scale(2);
 }
 
+section{
+    input[type=radio], input[type=checkbox]{
+        transform: scale(2);
+    }
+}
+
 button{
     font-size: 20px;
 }
