@@ -65,4 +65,4 @@ If this section grows too long, you may want to split it off into a separate fil
 
 ### Acknowledgements
 
-- I received inspiration for this project from X
+- I received inspiration for this project from my brain

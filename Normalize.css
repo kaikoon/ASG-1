@@ -1,0 +1,58 @@
+*{
+    text-decoration: none;
+}
+.home{
+    font-family: 'Merriweather', serif;
+    font-size: 80px;
+}
+
+h1{
+    font-size: 60px;
+}
+
+h2{
+    font-size: 30px;
+}
+
+.navbar{
+    background-color: rgb(18, 184, 190);
+    padding-left: 15 px;
+    padding-right: 15 px;
+}
+.navdiv{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+li{
+    list-style: none;
+    display: inline-block;
+    font-size: 30px;
+    padding-right: 10px;
+}
+
+form{
+    font-size: 25px;
+}
+
+table{
+    width: 65%;
+    font-size: 20px;
+    align-items: center;
+}
+
+input[type=radio], input[type=checkbox]{
+    transform: scale(2);
+}
+
+section{
+    input[type=radio], input[type=checkbox]{
+        transform: scale(2);
+    }
+}
+
+button{
+    font-size: 20px;
+}
