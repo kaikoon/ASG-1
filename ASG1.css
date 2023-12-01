@@ -26,3 +26,7 @@ li{
     display: inline-block;
     font-size: 30px;
 }
+
+form{
+    font-size: 25px;
+}
