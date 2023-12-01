@@ -62,7 +62,8 @@ If this section grows too long, you may want to split it off into a separate fil
 
 ### Media
 - The photos used in this site were obtained from ...
-
+https://www.tiger-computing.co.uk/wp-content/uploads/2018/04/maths.jpg
+https://pluspng.com/img-png/png-for-science-lesson-thumbnail-692.png
 ### Acknowledgements
 
 - I received inspiration for this project from my brain
