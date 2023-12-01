@@ -7,6 +7,10 @@
     color:rgb(226, 113, 43);
 }
 
+h1{
+    font-size: 60px;
+}
+
 .navbar{
     background-color: rgb(18, 184, 190);
     padding-left: 15 px;
