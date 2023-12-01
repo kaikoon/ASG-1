@@ -11,6 +11,10 @@ h1{
     font-size: 60px;
 }
 
+h2{
+    font-size: 30px;
+}
+
 .navbar{
     background-color: rgb(18, 184, 190);
     padding-left: 15 px;
@@ -29,4 +33,9 @@ li{
 
 form{
     font-size: 25px;
+}
+
+table{
+    font-size: 20px;
+    align-items: center;
 }
